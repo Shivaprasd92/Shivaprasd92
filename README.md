@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivaprasd92
+- 👋 Hi, I’m @Shivaprasad92
 - 👀 I’m interested in Design and Verification
 - 🌱 I’m currently learning System Verilog and UVM
 - 💞️ I’m looking to collaborate on ...
